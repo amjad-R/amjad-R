@@ -33,9 +33,9 @@ The code review work was done on real repositories, including pandas, MLflow, Pr
 
 ## Tools
 
-**Evaluation:** Python, Bash, Docker, pytest, Git, Linux (WSL2)
-**Web:** PHP, Laravel, JavaScript, React, Next.js, WordPress, WooCommerce, MySQL
-**Automation:** n8n, GitHub Actions
+- **Evaluation:** Python, Bash, Docker, pytest, Git, Linux (WSL2)
+- **Web:** PHP, Laravel, JavaScript, React, Next.js, WordPress, WooCommerce, MySQL
+- **Automation:** n8n, GitHub Actions
 
 ## Education
 
