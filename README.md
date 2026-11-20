@@ -1,4 +1,20 @@
-# Amjad Ben Essafi
+```
+ █████╗  ███╗   ███╗      ██╗  █████╗  ██████╗
+██╔══██╗ ████╗ ████║      ██║ ██╔══██╗ ██╔══██╗
+███████║ ██╔████╔██║      ██║ ███████║ ██║  ██║
+██╔══██║ ██║╚██╔╝██║ ██   ██║ ██╔══██║ ██║  ██║
+██║  ██║ ██║ ╚═╝ ██║ ╚█████╔╝ ██║  ██║ ██████╔╝
+╚═╝  ╚═╝ ╚═╝     ╚═╝  ╚════╝  ╚═╝  ╚═╝ ╚═════╝
+
+██████╗  ███████╗ ███╗   ██╗    ███████╗ ███████╗ ███████╗  █████╗  ███████╗ ██╗
+██╔══██╗ ██╔════╝ ████╗  ██║    ██╔════╝ ██╔════╝ ██╔════╝ ██╔══██╗ ██╔════╝ ██║
+██████╔╝ █████╗   ██╔██╗ ██║    █████╗   ███████╗ ███████╗ ███████║ █████╗   ██║
+██╔══██╗ ██╔══╝   ██║╚██╗██║    ██╔══╝   ╚════██║ ╚════██║ ██╔══██║ ██╔══╝   ██║
+██████╔╝ ███████╗ ██║ ╚████║    ███████╗ ███████║ ███████║ ██║  ██║ ██║      ██║
+╚═════╝  ╚══════╝ ╚═╝  ╚═══╝    ╚══════╝ ╚══════╝ ╚══════╝ ╚═╝  ╚═╝ ╚═╝      ╚═╝
+```
+
+**AI Evaluation Engineer · Full-Stack Developer · Agadir, Morocco**
 
 AI evaluation engineer based in Agadir, Morocco, with five years of programming behind me. I build and review the tasks used to test how well AI coding agents actually work.
 
@@ -33,9 +49,30 @@ The code review work was done on real repositories, including pandas, MLflow, Pr
 
 ## Tools
 
-- **Evaluation:** Python, Bash, Docker, pytest, Git, Linux (WSL2)
-- **Web:** PHP, Laravel, JavaScript, React, Next.js, WordPress, WooCommerce, MySQL
-- **Automation:** n8n, GitHub Actions
+**Evaluation**
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_(WSL2)-FCC624?logo=linux&logoColor=black)
+
+**Web**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+**Automation**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 ## Education
 
@@ -50,4 +87,4 @@ Arabic (native), English (fluent), Russian (fluent), French (intermediate)
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/ben-essafi-amjad/) · [Upwork](https://www.upwork.com/freelancers/~01d117e2b00a62bd55) · amjadbenessafi1@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ben-essafi-amjad/) · [Upwork](https://www.upwork.com/freelancers/~01d117e2b00a62bd55) · [Email](mailto:amjadbenessafi1@gmail.com)
